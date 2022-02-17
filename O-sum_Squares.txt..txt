@@ -1,0 +1,4 @@
+let sum=0
+For each number in list of numbers given
+	sum= sum+(square of number given)
+print sum
