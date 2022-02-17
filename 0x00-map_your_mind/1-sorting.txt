@@ -1,0 +1,6 @@
+if first_element > second_element:
+	swap first_element and second_element positions
+if second_element > third_element:
+	swap second_element and the third_element
+
+print the sorted numbers

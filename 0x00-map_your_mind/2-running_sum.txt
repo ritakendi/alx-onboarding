@@ -1,0 +1,9 @@
+sum=0
+while true:
+	number = get the number from the user
+	if number < 0:
+		print sum
+		break
+	else:
+		sum = sum+number
+	 
